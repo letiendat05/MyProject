@@ -1,0 +1,1 @@
+function App() { return <h1>Website Sports & Souvenirs</h1>; } export default App;
